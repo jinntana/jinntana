@@ -1,8 +1,8 @@
 Hi, I'm Serhan 👋
 
-I am an aspiring Data Engineer with a background in data analysis, finance, reporting, and business systems.
+I am a Junior Data Engineer with a background in data analysis, finance, reporting, and business systems.
 
-I am currently developing my skills in Python, SQL, PostgreSQL, APIs, Git, data pipelines, and cloud-based data engineering. I enjoy turning messy data into useful, reliable information that helps people make better decisions.
+Currently developing my skills in Python, SQL, PostgreSQL, APIs, Git, data pipelines, and cloud-based data engineering. I enjoy turning messy data into useful, reliable information that helps people make better decisions.
 
 What I am working on
 Building Python and SQL projects
