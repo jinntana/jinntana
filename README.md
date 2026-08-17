@@ -1,51 +1,37 @@
 # GitHub Profile README
 
 ```markdown
-<h1 align="center">Hi, I'm Serhan 👋</h1>
+# Hi, I'm Serhan 👋
 
-<p align="center">
-  Data Engineer with a background in data analysis, finance and business systems.
+I am a Data Engineer with a background in data analysis, finance, reporting, and business systems.
+
+I have experience working with data migration, automation, validation, reporting, and database-backed systems, and I am now applying these skills to practical Data Engineering projects involving ETL pipelines, cloud infrastructure, APIs, testing, and data warehousing.
+
+## What I am working on
+
+- Building end-to-end ETL pipelines using Python, SQL, PostgreSQL, and AWS
+- Developing cloud-based data workflows using S3, Lambda, IAM, and CloudWatch
+- Managing infrastructure using Terraform
+- Building and testing APIs with FastAPI and PostgreSQL
+- Using Pytest, Moto, Git, GitHub, and CI/CD within individual and team projects
+- Developing my knowledge of data warehouse design and analytics-ready data models
+
+## Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest"/>
 </p>
 
-<p align="center">
-  I’m building hands-on experience in data pipelines, cloud infrastructure, databases, APIs and automation,
-  with a focus on Python, SQL, AWS and ETL development.
-</p>
+## Career Direction
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,terraform,git,github,githubactions,fastapi" />
-</p>
+I am currently completing Data Engineering training with Northcoders and looking for Data Engineer opportunities where I can combine my previous commercial data experience with hands-on engineering skills across Python, SQL, AWS, ETL, databases, and cloud technologies.
 
----
-
-### About Me
-
-I’m transitioning into Data Engineering after several years working across data, finance and business operations.  
-My background includes data migration, automation, reporting and data validation, and I’m now building practical Data Engineering experience through Northcoders and project work.
-
----
-
-### Featured Projects
-
-#### Cloud ETL Pipeline
-End-to-end cloud ETL pipeline built using Python, SQL and AWS.  
-The project extracts data from PostgreSQL, processes and transforms it, and loads it into AWS using services such as S3 and Lambda. It also includes incremental extraction, infrastructure as code with Terraform, automated testing and monitoring.
-
-#### NC Plus One
-Database-backed API built with Python, FastAPI and PostgreSQL.  
-Includes structured endpoints, authentication, RSVP functionality and automated testing.
-
----
-
-### Currently
-
-- Completing Data Engineering training with Northcoders
-- Strengthening skills across AWS, ETL pipelines and cloud-based data workflows
-- Preparing for Data Engineer opportunities
-
----
-
-### Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/serhantana)
+Thanks for visiting my profile.
 ```
