@@ -16,7 +16,6 @@ I have experience working with data migration, automation, validation, reporting
 - Using Pytest, Moto, Git, GitHub, and CI/CD within individual and team projects
 - Developing my knowledge of data warehouse design and analytics-ready data models
 
-## Technologies
 
 ## Technologies
 
