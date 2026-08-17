@@ -1,6 +1,5 @@
 # GitHub Profile README
 
-```markdown
 # Hi, I'm Serhan 👋
 
 I am a Data Engineer with a background in data analysis, finance, reporting, and business systems.
@@ -20,10 +19,17 @@ I have experience working with data migration, automation, validation, reporting
 ## Technologies
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="45" height="45">
 
 ## Career Direction
 
-I am currently completing Data Engineering training with Northcoders and looking for Data Engineer opportunities where I can combine my previous commercial data experience with hands-on engineering skills across Python, SQL, AWS, ETL, databases, and cloud technologies.
+I have completed a Data Engineering training with Northcoders and looking for Data Engineer opportunities where I can combine my previous commercial data experience with hands-on engineering skills across Python, SQL, AWS, ETL, databases, and cloud technologies.
 
 Thanks for visiting my profile.
-```
+
